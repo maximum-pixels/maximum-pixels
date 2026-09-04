@@ -36,3 +36,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" height="64"/>
 
 </p>
+
+### Certifications:
+
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-SQL%20Basic-white?style=for-the-badge&logo=HackerRank&color=2EC866)](https://www.hackerrank.com/certificates/304c0c51ad82)
+
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-SQL%20Intermediate-white?style=for-the-badge&logo=HackerRank&color=2EC866)](https://www.hackerrank.com/certificates/d15fbf1afa39)
+
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-SQL%20Advanced-white?style=for-the-badge&logo=HackerRank&color=2EC866)](https://www.hackerrank.com/certificates/dd7bd7b477e7)
